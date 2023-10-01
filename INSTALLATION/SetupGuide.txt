@@ -1,0 +1,6 @@
+https://alejandro-ao.com/setup-python-development-environment-for-ai/
+
+https://github.com/github/gitignore/blob/main/Python.gitignore
+
+
+https://github.com/pyenv/pyenv

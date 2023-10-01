@@ -1,0 +1,5 @@
+A)) pip install streamlit pypdf2 langchain python-dotenv faiss-cpu openai huggingface_hub 
+
+streamlit ---> To create GUI , pypdf2 --> To read PDF's, langchain -----> To interact with our language models,   python-dotenv ---> To load key-value from .env file
+
+faiss-cpu -----> As our Vector Store (To efficiently search for large amount of data )

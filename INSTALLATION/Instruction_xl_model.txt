@@ -1,0 +1,7 @@
+Extra Installations ----->  1)) pip install InstructorEmbedding sentence_transformers  -------> And now you can see that we have imported it via langchain -----> HuggingFaceInstructEmbeddings
+
+NOTE: If the above installation not working then, use this:  `pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org --trusted-host pypi.python.org InstructorEmbedding sentence_transformers`
+
+
+Now the model  `hkunlp/instructor-xl` we got from ---> Click the instructor model and then copy that model (copy icon sign is there) ---> https://huggingface.co/hkunlp/instructor-xl
+

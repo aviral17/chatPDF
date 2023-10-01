@@ -1,0 +1,11 @@
+Now for the AI API, We can use 2 ways,  1)) 1st one is of OPENAI API 2)) Hugging Face API
+
+
+1)) OpenAI API (PAID) ----->  A) We will be using its `Embedding models` --> Ada v2 --	$0.0001 / 1K tokens , 
+
+However, compared to that of Free API Instructor model from Hugging Face, Instructor is better than this Embedding Model Ada v2, 
+Check this link  TIP:  ----->  `https://huggingface.co/spaces/mteb/leaderboard`
+
+
+2)) Hugging Face API ----> We gonna be using Free Instructor model, but its better but its gonna be slower and we need GPU for good performance
+
