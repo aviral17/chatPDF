@@ -1,4 +1,5 @@
 /***** Change Hugging face models and integrate it to modern LLMs
+/****** Train the models with Hyperparameters and also use existing powerful LLMs and apply reinforcement learning and self attention to improve it like crazzy
 
 Now for the AI API, We can use 2 ways,  1)) 1st one is of OPENAI API 2)) Hugging Face API
 
